@@ -1,0 +1,41 @@
+body{
+    background-color: #ffedd7;
+}
+.vincent{
+    color: #005eff;
+    font-size: 50px;
+    text-align: center;
+}
+.diana{
+    background-color: #ff0011;
+    width: 100px;
+    height: 50px;
+    border-radius: 8px;
+    border: unset;
+    color: #ffffff;
+    font-size: 20px;
+    cursor: pointer;
+}
+a{
+    text-decoration: none;
+}
+.tony{
+    color: #910009;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: underline;
+}
+.register{
+    width: 40%;
+    margin: auto;
+}
+h3{
+    color: #910009;
+    text-decoration: underline;
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+button:hover{
+    background-color: darkgrey;
+}
